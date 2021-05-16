@@ -1,4 +1,4 @@
-# Stone game code
+# Stone-picked game code
 A stone game's source code that you can compete with the computer.
 The condition of the winner in this game is the player who picks the last stone.
 In the game, there are three areas that you can pick the stone.
